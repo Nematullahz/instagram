@@ -14,7 +14,7 @@ function Suggestions() {
               <Avatar>AS</Avatar>
             </span>
             <div className='username__info'>
-              <span className='username'>redian_</span>
+              <span className='username'>Ashraf</span>
               <span className='relation'>New to Instagram</span>
             </div>
           </div>
@@ -24,10 +24,10 @@ function Suggestions() {
         <div className='suggesstion__username'>
           <div className='username__left'>
             <span className='avatar'>
-              <Avatar>AS</Avatar>
+              <Avatar>AN</Avatar>
             </span>
             <div className='username__info'>
-              <span className='username'>redian_</span>
+              <span className='username'>Ankit</span>
               <span className='relation'>New to Instagram</span>
             </div>
           </div>
@@ -37,10 +37,10 @@ function Suggestions() {
         <div className='suggesstion__username'>
           <div className='username__left'>
             <span className='avatar'>
-              <Avatar>AS</Avatar>
+              <Avatar>AR</Avatar>
             </span>
             <div className='username__info'>
-              <span className='username'>redian_</span>
+              <span className='username'>Arfat</span>
               <span className='relation'>New to Instagram</span>
             </div>
           </div>
@@ -50,10 +50,10 @@ function Suggestions() {
         <div className='suggesstion__username'>
           <div className='username__left'>
             <span className='avatar'>
-              <Avatar>AS</Avatar>
+              <Avatar>NE</Avatar>
             </span>
             <div className='username__info'>
-              <span className='username'>redian_</span>
+              <span className='username'>Nematullah</span>
               <span className='relation'>New to Instagram</span>
             </div>
           </div>
